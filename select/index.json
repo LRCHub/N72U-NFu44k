@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "It Has To Be This Way",
+  "base_artist": "Jimmy Gnecco",
+  "createdAt": "2026-02-10T08:12:59.601841Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "it has to be this way",
+      "artist": "Austin B0t",
+      "has_synced": false,
+      "path": "select/01_it_has_to_be_this_way_Austin_B0t.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It Has To Be This Way",
+      "artist": "Jimmy Gnecco",
+      "has_synced": true,
+      "path": "select/02_It_Has_To_Be_This_Way_Jimmy_Gnecco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It Has To Be This Way",
+      "artist": "Song, Jimmy Gnecco",
+      "has_synced": true,
+      "path": "select/03_It_Has_To_Be_This_Way_Song,_Jimmy_Gnecco.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It Has To Be This Way",
+      "artist": "Jimmy Gnecco",
+      "has_synced": true,
+      "path": "select/04_It_Has_To_Be_This_Way_Jimmy_Gnecco.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It Has To Be This Way",
+      "artist": "Jimmy Gnecco",
+      "has_synced": true,
+      "path": "select/05_It_Has_To_Be_This_Way_Jimmy_Gnecco.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It Has to Be This Way",
+      "artist": "Jamie Christopherson",
+      "has_synced": true,
+      "path": "select/06_It_Has_to_Be_This_Way_Jamie_Christopherson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It Has To Be This Way",
+      "artist": "Jamie Christopherson",
+      "has_synced": true,
+      "path": "select/07_It_Has_To_Be_This_Way_Jamie_Christopherson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It Has To Be This Way",
+      "artist": "FamilyJules",
+      "has_synced": true,
+      "path": "select/08_It_Has_To_Be_This_Way_FamilyJules.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It Has To Be This Way (Original Version)",
+      "artist": "Jamie Christopherson",
+      "has_synced": false,
+      "path": "select/09_It_Has_To_Be_This_Way_(Original_Version)_Jamie_Christopherson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Has To Be This Way",
+      "artist": "FamilyJules7x",
+      "has_synced": true,
+      "path": "select/10_It_Has_To_Be_This_Way_FamilyJules7x.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It Has To Be This Way (Platinum Mix)",
+      "artist": "Jimmy Gnecco",
+      "has_synced": true,
+      "path": "select/11_It_Has_To_Be_This_Way_(Platinum_Mix)_Jimmy_Gnecco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It Has To Be This Way (Original Version)",
+      "artist": "Jimmy Gnecco",
+      "has_synced": false,
+      "path": "select/12_It_Has_To_Be_This_Way_(Original_Version)_Jimmy_Gnecco.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It Has To Be This Way",
+      "artist": "Logan Mader",
+      "has_synced": true,
+      "path": "select/13_It_Has_To_Be_This_Way_Logan_Mader.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It Has To Be This Way",
+      "artist": "Jimmy Gnecco",
+      "has_synced": true,
+      "path": "select/14_It_Has_To_Be_This_Way_Jimmy_Gnecco.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It Has To Be This Way (Metal Gear Rising: Revengeance) (Instrumental Arrangement)",
+      "artist": "GaMetal",
+      "has_synced": false,
+      "path": "select/15_It_Has_To_Be_This_Way_(Metal_Gear_Rising__Revengeance)_(Instrumental_Arrangement_GaMetal.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It Has To Be This Way (Platinum Mix)",
+      "artist": "Jimmy Gnecco",
+      "has_synced": false,
+      "path": "select/pl_01_It_Has_To_Be_This_Way_(Platinum_Mix)_Jimmy_Gnecco.txt"
+    }
+  ]
+}
